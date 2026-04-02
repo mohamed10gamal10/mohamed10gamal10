@@ -7,27 +7,27 @@
 
 <p align="center">
   <a href="https://github.com/mohamed10gamal10">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" style="border-radius:10px;"/>
   </a>
 
   <a href="https://www.linkedin.com/in/mohammed-gamal-mahmoud">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:10px;"/>
   </a>
 
   <a href="https://www.youtube.com/channel/UCWfLqqNHcms4NA1JcjW-wwA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius:10px;"/>
   </a>
 
   <a href="https://www.facebook.com/mahmedgamal.samargy">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius:10px;"/>
   </a>
 
   <a href="https://wa.me/201111258819">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius:10px;"/>
   </a>
 
   <a href="https://www.instagram.com/mahmed_gamal_10">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:10px;"/>
   </a>
 </p>
 
@@ -69,6 +69,13 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mohamed10gamal10&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed10gamal10&layout=compact&theme=radical)
+
+---
+
+### 🎯 Currently Learning
+- Advanced Backend (Node.js)
+- System Design
+- Problem Solving (Advanced)
 
 ---
 
