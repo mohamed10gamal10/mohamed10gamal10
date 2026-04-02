@@ -3,6 +3,36 @@
 
 ---
 
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mohamed10gamal10">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohammed-gamal-mahmoud">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCWfLqqNHcms4NA1JcjW-wwA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/mahmedgamal.samargy">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/201111258819">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/mahmed_gamal_10">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 - 💻 Full Stack Developer  
 - 🧠 Problem Solving Enthusiast  
@@ -15,20 +45,13 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-
-  <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-
-  <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-
-  <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
@@ -37,7 +60,7 @@
 ### 🧠 Problem Solving
 - 💡 Strong in Data Structures & Algorithms  
 - 🏆 Solving problems on platforms like Codeforces & LeetCode  
-- 🔥 Interested in Competitive Programming  
+- 🔥 Competitive Programming Lover  
 
 ---
 
@@ -46,19 +69,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mohamed10gamal10&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed10gamal10&layout=compact&theme=radical)
-
----
-
-### 🎯 Currently Learning
-- Advanced Backend (Node.js)
-- System Design
-- Problem Solving (Advanced)
-
----
-
-### 📫 Contact Me
-- 💼 GitHub: https://github.com/mohamed10gamal10  
-- 🔗 LinkedIn: https://www.linkedin.com/in/mohammed-gamal-mahmoud  
 
 ---
 
