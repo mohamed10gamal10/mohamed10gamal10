@@ -29,6 +29,10 @@
   <a href="https://www.instagram.com/mahmed_gamal_10">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:10px;"/>
   </a>
+
+  <a href="https://codeforces.com/profile/Mohamed_gamal_10">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="border-radius:10px;"/>
+  </a>
 </p>
 
 ---
@@ -62,13 +66,20 @@
 - 🏆 Solving problems on platforms like Codeforces & LeetCode  
 - 🔥 Competitive Programming Lover  
 
+<p align="center">
+  <a href="https://codeforces.com/profile/Mohamed_gamal_10">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohamed_gamal_10&theme=github_dark&force_username=true" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mohamed10gamal10&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed10gamal10&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed10gamal10&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed10gamal10&layout=compact&theme=radical"/>
+</p>
 
 ---
 
