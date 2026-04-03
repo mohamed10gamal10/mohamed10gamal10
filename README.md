@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Mohamed_gamal_10">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohamed_gamal_10&theme=github_dark&force_username=true" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohamed_gamal_10&theme=github_dark&force_username=true&showSolved=false&showSubmissions=false&showRating=true&showRank=true&cache_seconds=0" />
   </a>
 </p>
 
