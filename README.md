@@ -77,7 +77,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed10gamal10&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed10gamal10&show_icons=true&theme=radical&hide=contribs"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed10gamal10&layout=compact&theme=radical"/>
 </p>
 
